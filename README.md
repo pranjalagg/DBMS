@@ -2,4 +2,4 @@
 ## Latest Assignment
 ### [Travel Database](../master/ERD-Travel_Database)
 
-![TD-Preview](../blob/master/ERD-Travel_Database/TravelDatabase.png)
+![TD-Preview](../master/ERD-Travel_Database/TravelDatabase.png)
